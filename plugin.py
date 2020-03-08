@@ -39,8 +39,8 @@ plugin_info = {
     "version": "0.0.0.0",
     "developer": "ssokka",
     "description": "Selenium Auto Clicker",
-    "home": "https://github.com/ssokka/SJVA/tree/master/plugin/selenium",
-    "zip": "https://github.com/ssokka/SJVA/raw/master/plugin/selenium.zip",
+    "home": "https://github.com/ssokka/selenium",
+    "zip": "https://github.com/ssokka/selenium/archive/master.zip",
     "more": "",
 }
 
