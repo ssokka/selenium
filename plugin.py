@@ -38,9 +38,9 @@ plugin_info = {
     "category_name": "custom",
     "version": "0.0.0.0",
     "developer": "ssokka",
-    "description": "Selenium Auto Clicker",
-    "home": "https://github.com/ssokka/selenium",
-    "zip": "https://github.com/ssokka/selenium/archive/master.zip",
+    "description": "Selenium Clicker",
+    "home": "https://github.com/ssokka/selenium_clicker",
+    "zip": "https://github.com/ssokka/selenium_clicker/archive/master.zip",
     "more": "",
 }
 
